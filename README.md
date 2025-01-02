@@ -33,9 +33,7 @@ The **Calendar Application for Communication Tracking ** is a React-based web ap
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400)  
-*(Replace with actual screenshots of your app)*
-
+![screencapture-localhost-3000-user-2025-01-02-18_47_19](https://github.com/user-attachments/assets/72abd10a-2a4e-4797-97bc-18c32d7b3dc1)
 
 ### Core Components
 
