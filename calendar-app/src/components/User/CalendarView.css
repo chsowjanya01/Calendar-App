@@ -1,0 +1,33 @@
+.calendar-view {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.react-calendar {
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  color: black;
+}
+
+.react-calendar__tile--active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.react-calendar__tile {
+  /* max-width: 100%;
+  padding: 10px 6.6667px;
+  background: none;
+  text-align: center;
+  font: inherit;
+  font-size: 0.833em; */
+  color: #000000;
+}
+
+.react-calendar__navigation button {
+  /* min-width: 44px; */
+  /* background: black; */
+  color: #000000;
+}
